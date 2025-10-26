@@ -13,6 +13,8 @@ int main () {
 
     printf("Quotient = %d\n", quotient);
     printf("Remainder = %d\n", remainder);
+
     system("pause");
+    
     return 0;
 }

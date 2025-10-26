@@ -8,6 +8,8 @@ int main() {
     scanf("%c", &c);  
 
     printf("ASCII value of %c = %d", c, c);
+
     system("pause");
+    
 return 0;
 }
