@@ -1,2 +1,17 @@
-# C-learning
-This repo is where I’ve been learning and practicing C programming. I’m using it to track my progress and experiment with different concepts — from basic syntax and loops to pointers and file handling. Most of the programs here are small practice exercises or examples I wrote while exploring how things actually work in C.
+# 🧠 C Learning  
+
+A personal repository where I learn, experiment, and practice **C programming** — from basic syntax to complex concepts.  
+
+## 🚀 About  
+This repo is my journey through learning C language step by step.  
+It includes practice programs, small projects, and notes I’ve written while exploring core C concepts.  
+
+## 📚 Topics Covered  
+- Basic syntax and structure  
+- Data types and operators  
+- Conditional statements and loops  
+- Functions and recursion  
+- Arrays, strings, and pointers  
+- Structures and unions  
+- File handling  
+- Mini projects and problem-solving practice
