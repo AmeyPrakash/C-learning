@@ -4,8 +4,7 @@
 struct student{
     char * subject[5];
     float marks[5];
-};
-
+}; 
 int main() {
     int i, sum = 0;
     float percentage;
