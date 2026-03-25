@@ -26,7 +26,7 @@ int main() {
     bubblesort(a,size);
     printf("\nSorted array:");
     for(i = 0;i < size; i++) {
-        printf("%d", a[i]);
+        printf(" %d", a[i]);
     }
     system("pause");
     return 0;
