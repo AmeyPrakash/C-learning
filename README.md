@@ -14,4 +14,4 @@ It includes practice programs, small projects, and notes I’ve written while ex
 - Arrays, strings, and pointers  
 - Structures and unions  
 - File handling  
-- Mini projects and problem-solving practice
+- Problem Solving Practice
